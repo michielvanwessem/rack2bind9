@@ -1,0 +1,4 @@
+- Read the authentication details from a file rather then in script
+- Command line options to restore the bind9 file into rackspace
+- GPG2 support to encrypt the file
+- S3 support to upload to a bucket
